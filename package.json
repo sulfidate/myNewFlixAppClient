@@ -1,0 +1,19 @@
+{
+  "name": "mynewflixappclient",
+  "version": "1.0.0",
+  "description": "movieDatabaseBuildWithReact",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulfidate/myNewFlixAppClient.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sulfidate/myNewFlixAppClient/issues"
+  },
+  "homepage": "https://github.com/sulfidate/myNewFlixAppClient#readme"
+}
