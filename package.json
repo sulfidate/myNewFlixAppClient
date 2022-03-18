@@ -2,7 +2,7 @@
   "name": "mynewflixappclient",
   "version": "1.0.0",
   "description": "movieDatabaseBuildWithReact",
-  "main": "src/index.html",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/sulfidate/myNewFlixAppClient/issues"
   },
-  "homepage": "https://github.com/sulfidate/myNewFlixAppClient#readme"
+  "homepage": "https://github.com/sulfidate/myNewFlixAppClient#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.2"
+  }
 }
